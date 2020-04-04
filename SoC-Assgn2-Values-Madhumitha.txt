@@ -1,0 +1,4 @@
+
+No. of iterations in Plot 1 = 35
+Maximum of dy/dx = 1203.6151582583173
+Average no. of iterations = 39.23 (100 runs)
